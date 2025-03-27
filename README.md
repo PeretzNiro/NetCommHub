@@ -1,9 +1,15 @@
 # NetCommHub - Group-Based Communication System
 
+A robust networked distributed system for group-based client-server communication with a graphical user interface.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-17%2B-blue)](https://www.java.com)
 
-A robust networked distributed system for group-based client-server communication with a graphical user interface.
+## 📚 Overview
+
+NetCommHub is a distributed communication platform that enables real-time messaging between multiple clients through a central server. It implements a coordinator-based architecture where one client serves as the group coordinator with elevated privileges for managing communication and member information.
+
+The system handles dynamic membership, with clients able to join and leave at any time, and ensures fault tolerance through automatic coordinator reassignment. NetCommHub provides both broadcast messaging to all members and private direct messaging between specific clients through an intuitive tabbed interface.
 
 ## 🚀 Features
 
@@ -93,7 +99,7 @@ java -cp out:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUn
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](License) file for details.
 
 ## 🤝 Contributing
 
