@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+!lib/*.jar  # Keep libraries in lib folder
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# Build directories
+bin/
+out/
+target/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.swp
+*~

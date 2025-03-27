@@ -1,0 +1,14 @@
+// Represents a message indicating the current coordinator in a system
+package com.netcommhub.common.message;
+
+public class CurrentCoordinator extends Carrier {
+
+    // Constructor for CurrentCoordinator class
+    public CurrentCoordinator(String coordinator) {
+        // Call the superclass constructor (Carrier) to initialize common fields
+        super();
+
+        // Set the current coordinator in the Carrier class using the setCoordinator method
+        setCoordinator(coordinator);
+    }
+}
