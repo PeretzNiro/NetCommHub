@@ -99,17 +99,13 @@ java -cp out:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUn
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [License](License) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to contribute.
 
 ## 📬 Contact
 
