@@ -22,7 +22,7 @@ The system handles dynamic membership, with clients able to join and leave at an
 
 ## 📋 Requirements
 
-- Java 8 or higher
+- Java 17 or higher
 - Network connection between server and clients
 
 ## 🛠️ Installation
