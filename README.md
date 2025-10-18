@@ -4,6 +4,9 @@ A robust networked distributed system for group-based client-server communicatio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-17%2B-blue)](https://www.java.com)
+[![GitHub stars](https://img.shields.io/github/stars/PeretzNiro/NetCommHub?style=social)](https://github.com/PeretzNiro/NetCommHub/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/PeretzNiro/NetCommHub)](https://github.com/PeretzNiro/NetCommHub/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/PeretzNiro/NetCommHub)](https://github.com/PeretzNiro/NetCommHub/commits/master)
 
 ## 📚 Overview
 
