@@ -4,6 +4,10 @@ A robust networked distributed system for group-based client-server communicatio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-17%2B-blue)](https://www.java.com)
+[![JUnit](https://img.shields.io/badge/tested_with-JUnit-25A162?logo=junit5)](https://junit.org/)
+[![Distributed System](https://img.shields.io/badge/Distributed-System-orange)](https://github.com/PeretzNiro/NetCommHub)
+[![Real-time](https://img.shields.io/badge/Real--time-Messaging-blue)](https://github.com/PeretzNiro/NetCommHub)
+[![Client-Server](https://img.shields.io/badge/Client--Server-Architecture-purple)](https://github.com/PeretzNiro/NetCommHub)
 
 ## 📚 Overview
 
